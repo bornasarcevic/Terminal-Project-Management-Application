@@ -12,4 +12,7 @@ In registration form person will need to enter some personal data like first nam
 some data is wrong then input must be repeated (example -> number in first name etc.). After succesfull registration
 person is added to database(.txt file) and now can enter application using login credentials (email and password).
 
+When user wants to log in into application then program checks if user exists in database. After succesfull login main menu is opened.
+
+
 
