@@ -1,5 +1,5 @@
 # Terminal-Project-Management-Application
-Application is used to create and manage your projects and people working on it. It covers area like arrays, structures, pointers, sorting and checking alghoritms, files etc.
+Application is used to create and manage your projects and people working on it. It covers area like arrays, structures, pointers, sorting and checking alghoritms, files, string, time etc.
 Some features:
 1. Adding project (project name, description,TODO list, start date, add persons, end date, set priority)
 2. View all projects
